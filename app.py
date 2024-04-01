@@ -12,7 +12,6 @@ import helper
 # Setting page layout
 st.set_page_config(
     page_title="KeenSight-Object Detection using YOLOv8",
-    
     layout="wide",
     initial_sidebar_state="expanded"
 )
